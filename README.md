@@ -17,3 +17,7 @@ With the help of Library pywhatkit we sewnd a message on whatsApp
 ## 4.Web Scrapping
 
 By using Beautifulsoup we Scrap Content from Website of Crickbuzz. And show in Python Output.
+
+## 5.Dice Stimulator
+
+It work like a Dice in this we roll it and it give random numbers between 1 to 6.
